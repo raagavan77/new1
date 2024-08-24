@@ -1,1 +1,5 @@
+all new <<<<<<< HEAD
 final modified new a1
+=======
+new furst new a1
+>>>>>>> first
